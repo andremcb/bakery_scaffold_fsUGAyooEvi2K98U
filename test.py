@@ -9,7 +9,7 @@ class TestAcceptanceStripe(unittest.TestCase):
             self.dom_str = file_descriptor.read()
 
     def test_acceptance_stripe_public_key_has_been_set(self):
-        """Check if Stripe key was defined."""
+        """Check if Stripe key was defineddd."""
         return True
 
 
