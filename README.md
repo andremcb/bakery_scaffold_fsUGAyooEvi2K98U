@@ -1,4 +1,4 @@
-If you think the status message is incorrect, click into it or check the build status of your latest commit. It may still be building.
+If you think the status message is incorrect, click into it or check the build status of your latest commit. It may still be building..
 
 # Instructions 
 
