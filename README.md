@@ -12,7 +12,7 @@ One time purchase product
 * SKU: TBD
 * Name: Chocolate cupcake
 * Currency: USD
-* Amount: $3.25
+* Amount: $3.23
 
 The repository includes the following files:
 * `/order.html`: complete this form to integrate with Checkout
